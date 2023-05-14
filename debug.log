@@ -1,0 +1,73 @@
+[0224/134127.929:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0224/134128.249:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0224/134128.828:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0224/134155.235:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0224/134155.357:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0224/134155.390:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0225/153502.457:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0225/153502.681:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0225/153502.727:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0226/160830.690:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0226/160830.863:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0226/160830.897:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0228/234337.478:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0228/234337.688:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0228/234337.803:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0301/131255.533:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0301/131255.821:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0301/131255.824:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0301/131256.213:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0301/133438.772:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0301/133439.071:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Системата не може да намери указания файл. (0x2)
+[0301/133439.219:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0302/184036.810:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0302/184037.210:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0302/184037.627:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0311/132959.217:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0311/132959.585:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0311/132959.949:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0312/145622.689:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0312/145623.185:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0312/145624.448:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0312/151433.039:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0312/151433.363:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0312/151436.646:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0313/165343.954:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0313/165344.249:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0313/165344.256:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0313/165344.272:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0315/130855.017:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0315/130855.273:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0315/130856.010:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0316/202954.405:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0316/202954.822:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0316/202954.825:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0316/202955.618:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0317/115529.330:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0317/115529.665:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0317/115530.032:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0320/160945.993:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0320/160946.528:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0320/160946.985:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0321/232057.655:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0321/232057.871:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0321/232058.003:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0322/130842.771:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0322/130843.182:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0322/130843.186:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0324/135229.758:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0324/135230.147:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0324/135230.739:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0326/152820.717:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0326/152821.054:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0326/152821.369:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0327/202414.278:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0327/202414.704:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0327/202415.234:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0327/202906.696:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0327/202906.954:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0327/202907.018:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0328/144328.011:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0328/144328.237:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Достъпът е отказан. (0x5)
+[0328/144328.239:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Каналът е затворен. (0x6D)
+[0328/144329.440:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled

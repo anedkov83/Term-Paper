@@ -1,0 +1,415 @@
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2c8ad1;
+  color: white;
+}
+
+.topnav {
+  font-family:monospace;
+}
+.media screen and (max-width: 500px){
+.topnav a{
+  float:none;
+  display:block;
+ }
+  }
+ 
+.about-container{
+  width:70%;
+  height:450px;
+  background-color:#b8b8b8;
+  border-radius:20px;
+  box-shadow:10px 10px 4px 0px #2c8ad1;
+  display:flex;
+  margin: 1% auto 20px auto;
+  position: relative;
+  align-items:center;
+  justify-content: space-around;
+  }
+  
+.about-container img{
+    height:340px;
+    width: 255px;
+	}
+.about-text{
+  width:600px;
+  }	
+.about-text p:nth-child(1){
+  color:#000000;
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:35px;
+  line-height:0px;
+  }
+ .about-text p:nth-child(2){
+  color:#323d3d;
+  font-size:25px;
+  font-family:calibri;
+  font-weight: bold;
+  line-height:5px;
+  }
+  
+.about-text p:nth-child(3),
+.about-text p:nth-child(4){
+  color:#00000;
+  font-family:calibri;
+  font-size:20px;
+  font-style: italic;
+  }
+
+.about-text button{
+    width: 100px;
+    height: 25px;
+    outline:none;
+    color: #ffffff;
+    border: none;
+    font-family: calibri;
+    background-color: #262525;  
+  }
+
+.header{
+  margin: 1em 0 0.5em 0;
+  color: blue;
+  font-weight: normal;
+  font-family: italic;  
+  font-size: 33px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
+}
+
+
+a.button3{
+ display:inline-block;
+ padding:0.3em 1.2em;
+ margin:0 0.3em 0.3em 0;
+ border-radius:2em;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-family: monospace;
+ font-weight:200px;
+ color:#FFFFFF;
+ background-color:#333;
+ text-align:center;
+ transition: all 0.2s;
+ font-size:16px;
+}
+a.button3:hover{
+ background-color:#2c8ad1;
+}
+@media all and (max-width:30em){
+ a.button3{
+ display:block;
+ margin:0.2em auto;
+ }
+}
+
+.home img{
+  width:60px;
+  height:60px;
+  position: absolute;
+  right:50px;
+  padding: 10px;
+}
+
+.home2 img{
+  width:60px;
+  height:60px;
+  position: absolute;
+  right:5px;
+  padding: 10px;
+}
+
+.arrow img{
+  width:60px;
+  height:60px;
+  position: absolute;
+  right:5px;
+  padding: 10px;
+}
+
+.arrow2 img{
+  width:60px;
+  height:60px;
+  position: absolute;
+  right:97px;
+  padding: 10px;
+}
+
+.arrow21 img{
+  width:60px;
+  height:60px;
+  position: absolute;
+  right:50px;
+  padding: 10px;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 31%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.4; 
+  cursor: pointer; 
+  width: 250px;
+  height:150px;
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container (positioning is needed to position the close button and the text) */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 30px;
+  font-family: calibri;
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  font-style: italic;
+}
+
+/* Closable button inside the image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: #e00004;
+  font-size: 45px;
+  cursor: pointer;
+}
+
+
+ /*==============*/
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  /* The image used */
+  background-image: url("3.jpg");
+
+  /* Add the blur effect */
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 1423px;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
+  color: white;
+  border: 3px solid red;
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 10px;
+  text-align: left;
+  font-family: calibri;
+  font-size:23px;
+  
+}
+
+.bg-image2 {
+  /* The image used */
+  background-image: url("3.jpg");
+
+  /* Add the blur effect */
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 1410px;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text2 {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
+  color: white;
+  border: 3px solid red;
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
+  font-family: calibri;
+  font-size:23px;
+  
+}
+
+.column2 {
+  float: left;
+  width: 35%;
+  background-color: #b8b8b8;
+
+}
+
+.column3 {
+  float: left;
+  width: 65%;
+  background-color: brown;
+  font-size: 40px;
+  font-family: calibri;
+  font-weight: bold;
+}
+
+
+/* Clear floats after the columns */
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.pic img{
+  width: 450px;
+  height: 300px
+}
+
+.pic2 img{
+  width: 320px;
+  height: 400px;
+}
+
+.bg-image3 {
+  /* The image used */
+  background-image: url("3.jpg");
+
+  /* Add the blur effect */
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 1410px;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text3 {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
+  color: white;
+  border: 3px solid #ed4747;
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
+  font-family: calibri;
+  font-size:23px;  
+}
+
+
+.about-container2{
+  width:55%;
+  height:270px;
+  background-color:#b8b8b8;
+  border-radius:50px;
+  box-shadow:9px 8px 7px 0px #2c8ad1;
+  display:flex;
+  margin: 13% auto 20px auto;
+  position: relative;
+  align-items:center;
+  justify-content: space-around;
+  }
+  
+.about-text2{
+  width:600px;
+  } 
+
+.about-text2 p:nth-child(1){
+  color:#000000;
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:35px;
+  line-height:0px;
+  }
+ .about-text2 p:nth-child(2){
+  color:#323d3d;
+  font-size:25px;
+  font-family:calibri;
+  font-weight: bold;
+  }
+  
+ footer {
+    margin-top: 200px;
+    background-color: #212121;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
